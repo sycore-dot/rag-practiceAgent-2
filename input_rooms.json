@@ -1,0 +1,26 @@
+[
+  {
+    "room_number": "126A",
+    "room_type": "Mechanical",
+    "area_sqft": null,
+    "capacity": null,
+    "ceiling_height_ft": null,
+    "zone_type": "UTILITY",
+    "hazards": [
+      "MECHANICAL EQUIPMENT"
+    ],
+    "geometry": {
+      "area_cad_units": 58275.75,
+      "centroid": [
+        69222453.12,
+        27677241.14
+      ],
+      "bbox": [
+        69222293.71,
+        27677100.43,
+        69222608.61,
+        27677375.22
+      ]
+    }
+  }
+]

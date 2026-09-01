@@ -1,0 +1,30 @@
+Room Number: 126A
+Room Type: Mechanical
+Zone Type: Utility
+Hazards:
+Mechanical Equipment
+
+Geometry:
+Area CAD Units: 58275.75
+
+---
+
+Room Number: 130
+Room Type: Electrical
+Zone Type: Utility
+Hazards:
+High Voltage
+
+Geometry:
+None
+
+---
+
+Room Number: 201
+Room Type: Office
+Zone Type: Workspace
+Hazards:
+None
+
+Geometry:
+None
