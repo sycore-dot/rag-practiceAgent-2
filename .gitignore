@@ -6,8 +6,10 @@ __pycache__/
 
 .streamlit.*.log
 
-chroma_db/
-faiss_index/
+chroma_db/*
+!chroma_db/.gitkeep
+faiss_index/*
+!faiss_index/.gitkeep
 
 .pytest_cache/
 .mypy_cache/

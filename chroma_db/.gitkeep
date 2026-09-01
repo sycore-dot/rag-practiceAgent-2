@@ -1,0 +1,1 @@
+# Keeps the ChromaDB directory in git while generated index files stay ignored.
